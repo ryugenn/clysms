@@ -1,7 +1,8 @@
-### 💻 Eclipsify
+### Eclipsify
+- 👋 Hi, I'm Eclipsify, I'm a 13 year old who programs in Lua and CSS whenever I want.
 - 🔭 My current project is BDSnips. (github.com/Eclipsify/BDSnips)
-- 📫 How to reach me: Eclipsifyy#3571 on discord or @Eclipsifyyy on twitter.
-- 🌱 Programming languages: Lua & CSS.
+- ⚡ Facts about me: I like programming (obviously), specifically Roblox scripts and snippets for Discord. I like entertaining myself by watching TV specifically anime, and doing other things with my time.
+- 📫 Need to contact me? You can do so on Discord or Twitter > Eclipsifyy#3571 / @Eclipsifyyy
 <!--
 
 
