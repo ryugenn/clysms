@@ -30,7 +30,7 @@
 - [ChromaSlate](https://github.com/DiscordAddons/ChromaSlate) - `Private and postponed`
 
 # Personal Repos
-- [iyplugins](https://github.com/Ryonss/iyplugins) -`Private and discontinued`
+- [iyplugins](https://github.com/Ryonss/iyplugins) - `Private and discontinued`
 - [LuaS (bad name, yes ik)](https://github.com/Ryonss/LuaS) - `Private and discontinued`
 - [BDSnips](https://github.com/Ryonss/BDSnips) - `Discontinued and archived`
 
