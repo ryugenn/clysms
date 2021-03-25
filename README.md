@@ -5,7 +5,7 @@ you can check out my **personal links** below
 # personal links
 - Profile - [Vampfully](https://github.com/Vampfully)
 - Company/Organization - [Vamppets](https://github.com/Vamppets)
-- Twitter - [Failed to load Twitter...](https://twitter.com/error)
+- Twitter - [Failed to load Twitter...](https://twitter.com/error/error/error)
 - Discord - `𝖁𝖆𝖒𝖕𝖋𝖚𝖑𝖑𝖞 ✂#3571`
 
 # interests
