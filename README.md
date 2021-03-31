@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/72931279/112764585-31223c80-8fd7-11eb-9c8b-df138e72e019.png)
------------- 
+Just a 13 year old programmer who enjoys coding stupid [Discord](https://github.com/discord) snippets <3
 
 Links
 ------------ 
