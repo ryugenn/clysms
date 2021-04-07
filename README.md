@@ -4,7 +4,7 @@
 
 - 🛠️ I'm currently working on [Zero Hours](https://github.com/BDStyles/Zero-Hours) and [Synthcord '84](https://github.com/Synthcord-84).
 - ✍️ I'm currently learning **CSS**.
-- 🤝 I'm willing to get help from anyone who has experience and knowledge about CSS.
+- 🤝 I'm willing to get help from anyone who has experience and knowledge about **CSS**.
 - 🔮 My future project (s) are: [future-theme (name isn't final)](https://github.com/BDStyles/future-theme).
 - 📫 You can reach me using the links below or add my discord - `ryonsharp#0525`.
 
