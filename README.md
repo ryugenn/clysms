@@ -7,6 +7,9 @@
 
 **What I do**
 - *I make [Discord](https://discord.com) themes using CSS and I also make [Roblox](https://roblox.com) scripts using Lua!*
+- You can checkout some of my [Discord](https://discord.com) themes and Lua scripts by vising one of the links below!
+   - [BetterdiscordProjects](https://github.com/BetterdiscordProjects)
+   - [My Profile > Repositories](https://github.com/evadeRyon)
 
 <!--
 ![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
