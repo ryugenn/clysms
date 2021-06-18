@@ -1,10 +1,8 @@
 I'm Ry, a 13 year old programmer that enjoys coding.
 
 # Programming Languages
-- Currently Learning:
-  - CSS 
-- Former/Partial Languages
-  - Lua 
+  - CSS
+  - Lua
 
 # Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysworldd&layout=compact&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
