@@ -1,15 +1,18 @@
 **who am i?**
-- 🃏 I'm `copywheek`.
+- 🃏 I'm `copywheel`.
 - 🎨 Theme developer with 3+ months of experience and Lua programmer.
+
+**what i do**
+- I waste my time by making themes for Discord.
 
 <details>
 <summary><strong>my statistics.</strong></summary>
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
   
-[![vlostcity’s top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=vlostcity&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![copywheeI’s top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=vlostcity&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![vlostcity’s statistics.](https://github-readme-stats.vercel.app/api?username=vlostcity&show_icons=true&theme=radical&hide_border=true)
+![copywheeI’s statistics.](https://github-readme-stats.vercel.app/api?username=vlostcity&show_icons=true&theme=radical&hide_border=true)
 </details>
 
 - repo inspired by [teidesu's.](https://github.com/teidesu)
